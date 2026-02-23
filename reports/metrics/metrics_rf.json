@@ -1,0 +1,10 @@
+{
+  "threshold": 0.5,
+  "accuracy": 0.6287284144427001,
+  "roc_auc": 0.7332132385398248,
+  "pr_auc": 0.7048136234295475,
+  "model": "RandomForest",
+  "train_seconds": 0.7063190937042236,
+  "n_train": 5222,
+  "n_test": 1274
+}
